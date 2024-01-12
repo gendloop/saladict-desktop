@@ -1,7 +1,7 @@
-# RepoName
+# saladict-desktop
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/saladict-desktop
 ```
