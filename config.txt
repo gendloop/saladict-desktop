@@ -1,0 +1,5 @@
+
+PROJECT_NAME=saladict-desktop
+saladict-desktop_VERSION_MAJOR=1
+saladict-desktop_VERSION_MINOR=0
+saladict-desktop_VERSION_PATCH=0
